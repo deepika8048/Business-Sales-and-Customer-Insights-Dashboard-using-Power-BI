@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-Screenshot 2026-06-23 145830.png
+view : dashboard_overview.png.png
 
 ## 📌 Project Overview
 This Power BI dashboard provides a comprehensive analysis of business sales, profitability, customer segments, and regional performance. It enables stakeholders to monitor KPIs and identify growth opportunities through interactive visualizations.
